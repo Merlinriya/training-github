@@ -6,5 +6,5 @@ Commands learnt so far!
 * git config --global user.name <username>
 * git config --global user.email <email>
 * cloning
-* git add filename.md
+* git add <filename>
 * git push
